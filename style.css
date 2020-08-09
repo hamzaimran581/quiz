@@ -1,0 +1,20 @@
+.container-sm{
+    background-color:blueviolet;
+    color: white;
+    height: 500px;
+    margin-top: 60px;
+}
+
+.timer{
+    margin-left: 45%;
+    font-size: x-large;
+
+}
+#ques{
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: xx-large;
+}
+.btn{
+    padding: 20px 40px;
+}
